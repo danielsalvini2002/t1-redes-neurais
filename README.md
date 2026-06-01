@@ -85,7 +85,8 @@ Aumentar o número de épocas fará o programa rodar por mais tempo, mas possive
 ## Notas do Desenvolvedor
 
 Não consegui criar o código capaz de gerar os gráficos para melhor explorar os resultados atingidos, então é algo para fazer em futuras atualizaçôes. Mas fui capaz de percerber que a acurácia do modelo é de aproximadamente 92% no conjunto de teste para 30 epochs (menos que isso diminuiu drasticamente os resultados), o que é um resultado razoável para uma implementação do zero sem otimizações avançadas.
+Tive também auxilio do Gemini que me auxiliou a entender melhor o processo teorico sintetizando o conteúdo das aulas via NotebookLM.
 
-# 📚 Agradecimentos
+## 📚 Agradecimentos
 
-* Obrigado pelo @AzorMesmo que me ajudou com a linguagem python ja que não tenho muita experiência com ela, e pelo professor GianCarlo que me auxiliou com o entendimento teórico em uma monitoria particular.
+* Obrigado pelo @AzorMesmo que me ajudou com a linguagem python ja que não tenho muita experiência com ela, e pelo professor Giancarlo que me auxiliou com o entendimento teórico em uma monitoria particular.
